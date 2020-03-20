@@ -1,0 +1,4 @@
+p/x $rdi  打印第一个参数
+x/20i <main><foo><addr> 反编译指定地址
+p/20c x/20c <addr> 打印字符串
+int &nVarType = nVar ==>  &nVar
